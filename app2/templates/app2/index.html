@@ -1,0 +1,15 @@
+<body>
+    <h1>ALL DIFFERENT PERMUTATIONS</h1>
+    <form method="POST">
+        {% csrf_token %}
+        {{form.as_p}}
+        <button type="submit">CHECK</button>
+    </form>
+    {% if param1 %}
+    <h2>{{param1}} is {{param2}}</h2>
+
+    <!--<h2>{%for i in param2%}</h2>
+        <h2>{{i}}</h2>
+        <h2>{%endfor%}</h2>!-->
+    {% endif %}
+</body>
