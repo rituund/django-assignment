@@ -1,10 +1,12 @@
 <body>
-    <h1>The Combinations Are:</h1>
-    <form method="POST">
+    
+    <h1><form method="POST">
         {% csrf_token %}
         {{form.as_p}}
         <button type="submit">CHECK</button>
     </form>
+    </h1>
+    <h1>The Combinations Are:</h1>
     {% if param1 %}
     <h2>{{param1}} is {{param2}}</h2>
 
