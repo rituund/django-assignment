@@ -1,11 +1,13 @@
 # Django-Assignment[Ritu N D]
 ## Snapshots of Output
 ### 3-Letter word: EAT
-![image](https://github.com/rituund/django-assignment/assets/155997325/59682d24-7e07-4bf0-92ea-22cfbb416224)
+![image](https://github.com/rituund/django-assignment/assets/155997325/659a8520-f391-4ec2-aa82-e31c9a921f65)
 
 ### 4-Letter word: FAST
-![image](https://github.com/rituund/django-assignment/assets/155997325/dc95fdc6-dba1-435e-90da-627294d2e4c7)
+![image](https://github.com/rituund/django-assignment/assets/155997325/69d1ccb1-ae87-4db6-835b-02b61b756cc1)
+
 
 ### 5-Letter word: SMILE
 
-![image](https://github.com/rituund/django-assignment/assets/155997325/d5a1a8c6-0767-43cc-a9a4-f69e029ce3bd)
+![image](https://github.com/rituund/django-assignment/assets/155997325/53a6dabb-84e0-4fe6-b231-2c2f017c4753)
+
