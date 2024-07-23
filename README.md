@@ -1,4 +1,4 @@
-# Django-Assignment[Ritu N D]
+# Django-Project1
 ## Snapshots of Output
 ### 3-Letter word: EAT
 ![image](https://github.com/rituund/django-assignment/assets/155997325/659a8520-f391-4ec2-aa82-e31c9a921f65)
